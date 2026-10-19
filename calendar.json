@@ -3,14 +3,16 @@
     {
       "id": "2026-10-19-tesla-orcamento",
       "type": "reel",
-      "status": "aprovado",
+      "status": "publicado",
       "scheduled_at": "2026-10-19T10:30:00-03:00",
-      "media": ["images/tesla-final.mp4"],
+      "media": [
+        "images/tesla-final.mp4"
+      ],
       "on_screen_text": "Entregando o orçamento antes do concorrente responder",
       "caption": "Cliente pediu orçamento e sumiu? 🚗💨\nEle não sumiu. Ele esfriou. Quem responde primeiro leva vantagem.\n\nEntre em contato e descubra como posso ajudar a escalar o seu negócio.\n\n#crm #vendas #automacaocomercial #inteligenciaartificial #kommo",
       "notes": "Vídeo de IA (10s, 1080x1920, H.264/AAC). Texto na tela já aplicado no arquivo. Áudio original mantido (fala em inglês: 'Hey there! Have a good one!'). Ativar a etiqueta de conteúdo de IA no app.",
-      "published_at": null,
-      "ig_media_id": null,
+      "published_at": "2026-10-19T13:50:37.957Z",
+      "ig_media_id": "18025594931874110",
       "error": null
     }
   ]
