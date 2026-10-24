@@ -18,7 +18,7 @@
     {
       "id": "2026-10-24-estatico-6-em-10",
       "type": "image",
-      "status": "aprovado",
+      "status": "publicado",
       "scheduled_at": "2026-10-24T10:00:00-03:00",
       "media": [
         "images/post-01-6-em-10.jpg"
@@ -26,7 +26,9 @@
       "on_screen_text": "6 em cada 10 empresas pequenas já usam IA. Só 2 usam com organização.",
       "caption": "6 em cada 10 empresas pequenas já usam IA nas vendas. Só 2 usam com organização. Você está entre as 2?\n\nTer a ferramenta de inteligência artificial (a IA, o robô que ajuda a trabalhar) é como ter uma bola de futebol: só com a bola, ninguém joga. Falta time, regras e placar.\n\nResponda 3 perguntas num papel, agora (5 minutos):\n• TIME: quem cuida da IA na sua empresa? (precisa ter um nome)\n• REGRAS: em que momento da venda ela entra e o que ela faz? (ex.: responder a primeira mensagem do cliente)\n• PLACAR: quantas vendas vieram dela no último mês?\n\nFicou alguma em branco? Achou o buraco. Comece por ela.\n\nVocê não está sozinho: só 21% dos estabelecimentos conseguem dizer quando uma venda veio de uma plataforma de IA.\n\nSalve este post para fazer o teste com calma.\n\nEntre em contato e descubra como posso ajudar a escalar o seu negócio. Link na bio.\n\n#automacaodevendas #crmparapequenaempresa #agentedeia #vendas #kommo",
       "notes": "Post 1 estático, aprovado em 24/10/2026.",
-      "error": null
+      "error": null,
+      "ig_media_id": "18251079868309199",
+      "published_at": "2026-10-24T13:39:40.382Z"
     },
     {
       "id": "2026-10-26-carrossel-etapa-vs-campo",
