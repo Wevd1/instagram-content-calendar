@@ -14,6 +14,39 @@
       "published_at": "2026-10-19T13:50:37.957Z",
       "ig_media_id": "18025594931874110",
       "error": null
+    },
+    {
+      "id": "2026-10-24-estatico-6-em-10",
+      "type": "image",
+      "status": "aprovado",
+      "scheduled_at": "2026-10-24T10:00:00-03:00",
+      "media": [
+        "images/post-01-6-em-10.jpg"
+      ],
+      "on_screen_text": "6 em cada 10 empresas pequenas já usam IA. Só 2 usam com organização.",
+      "caption": "6 em cada 10 empresas pequenas já usam IA nas vendas. Só 2 usam com organização. Você está entre as 2?\n\nTer a ferramenta de inteligência artificial (a IA, o robô que ajuda a trabalhar) é como ter uma bola de futebol: só com a bola, ninguém joga. Falta time, regras e placar.\n\nResponda 3 perguntas num papel, agora (5 minutos):\n• TIME: quem cuida da IA na sua empresa? (precisa ter um nome)\n• REGRAS: em que momento da venda ela entra e o que ela faz? (ex.: responder a primeira mensagem do cliente)\n• PLACAR: quantas vendas vieram dela no último mês?\n\nFicou alguma em branco? Achou o buraco. Comece por ela.\n\nVocê não está sozinho: só 21% dos estabelecimentos conseguem dizer quando uma venda veio de uma plataforma de IA.\n\nSalve este post para fazer o teste com calma.\n\nEntre em contato e descubra como posso ajudar a escalar o seu negócio. Link na bio.\n\n#automacaodevendas #crmparapequenaempresa #agentedeia #vendas #kommo",
+      "notes": "Post 1 estático, aprovado em 24/10/2026.",
+      "error": null
+    },
+    {
+      "id": "2026-10-26-carrossel-etapa-vs-campo",
+      "type": "carousel",
+      "status": "aprovado",
+      "scheduled_at": "2026-10-26T10:00:00-03:00",
+      "media": [
+        "images/post-02-slide-01.jpg",
+        "images/post-02-slide-02.jpg",
+        "images/post-02-slide-03.jpg",
+        "images/post-02-slide-04.jpg",
+        "images/post-02-slide-05.jpg",
+        "images/post-02-slide-06.jpg",
+        "images/post-02-slide-07.jpg",
+        "images/post-02-slide-08.jpg"
+      ],
+      "on_screen_text": "O erro nº 1 que bagunça o seu CRM",
+      "caption": "CRM (o caderno de clientes da empresa) bagunçado? Arrume as colunas em 10 minutos.\n\nO carrossel mostrou o erro. Aqui vai o conserto, passo a passo, sem gastar nada:\n\n1. Abra o seu CRM e anote o nome de todas as colunas.\n2. Para cada uma, pergunte: \"o cliente passa por aqui e segue em frente, ou é só um recado?\"\n3. Passa e segue? É etapa. Fica onde está.\n4. É recado, como \"aguardando retorno\"? Vira um campo de sim ou não dentro da ficha.\n5. Só depois de mover as fichas, apague a coluna que sobrou.\n\n3 campos que deixam o seu CRM mais simples:\n• Aguardando retorno: sim ou não\n• Data do próximo contato\n• Motivo da perda (preço, sem resposta, escolheu outro)\n\nFunil bagunçado automatizado só bagunça mais rápido. Primeiro o processo. Depois a automação.\n\nSalve este post e faça o passo a passo hoje.\n\nEntre em contato e descubra como posso ajudar a escalar o seu negócio. Link na bio.\n\n#crmparapequenaempresa #funildevendas #automacaodevendas #kommo #gestaocomercial",
+      "notes": "Post 2 carrossel de 8 lâminas, aprovado em 24/10/2026.",
+      "error": null
     }
   ]
 }
