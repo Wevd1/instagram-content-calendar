@@ -3,6 +3,7 @@ name: Publicar posts aprovados
 on:
   schedule:
     - cron: "*/10 * * * *"
+    - cron: "0,3,6,9 13 * * *"
   workflow_dispatch:
     inputs:
       testar:
