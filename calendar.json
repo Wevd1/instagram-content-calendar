@@ -33,7 +33,7 @@
     {
       "id": "2026-10-26-carrossel-etapa-vs-campo",
       "type": "carousel",
-      "status": "aprovado",
+      "status": "publicado",
       "scheduled_at": "2026-10-26T10:00:00-03:00",
       "media": [
         "images/post-02-slide-01.jpg",
@@ -48,7 +48,9 @@
       "on_screen_text": "O erro nº 1 que bagunça o seu CRM",
       "caption": "CRM (o caderno de clientes da empresa) bagunçado? Arrume as colunas em 10 minutos.\n\nO carrossel mostrou o erro. Aqui vai o conserto, passo a passo, sem gastar nada:\n\n1. Abra o seu CRM e anote o nome de todas as colunas.\n2. Para cada uma, pergunte: \"o cliente passa por aqui e segue em frente, ou é só um recado?\"\n3. Passa e segue? É etapa. Fica onde está.\n4. É recado, como \"aguardando retorno\"? Vira um campo de sim ou não dentro da ficha.\n5. Só depois de mover as fichas, apague a coluna que sobrou.\n\n3 campos que deixam o seu CRM mais simples:\n• Aguardando retorno: sim ou não\n• Data do próximo contato\n• Motivo da perda (preço, sem resposta, escolheu outro)\n\nFunil bagunçado automatizado só bagunça mais rápido. Primeiro o processo. Depois a automação.\n\nSalve este post e faça o passo a passo hoje.\n\nEntre em contato e descubra como posso ajudar a escalar o seu negócio. Link na bio.\n\n#crmparapequenaempresa #funildevendas #automacaodevendas #kommo #gestaocomercial",
       "notes": "Post 2 carrossel de 8 lâminas, aprovado em 24/10/2026.",
-      "error": null
+      "error": null,
+      "ig_media_id": "17931999735166737",
+      "published_at": "2026-10-26T14:10:46.719Z"
     }
   ]
 }
